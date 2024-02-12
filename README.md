@@ -1,1 +1,7 @@
-# mcis6273-f24-datamining
+# Welcome to mcis6273-f24-datamining Repository
+
+My Zotero Username: YourZoteroUsername
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+
+Feel free to add more text or information
