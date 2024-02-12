@@ -1,6 +1,6 @@
 # Welcome to mcis6273-f24-datamining Repository
 
-My Zotero Username: YourZoteroUsername
+My Zotero Username: shashivardhan_999901640
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
 
